@@ -1,0 +1,15 @@
+/* h1,h2{
+    background-color: blueviolet;
+} */
+
+h3[draggable="true"]{
+    background-color: lightcoral;
+}
+
+/* section p{
+    background-color: aqua;
+} */
+
+section > p{
+    background-color: blue;
+}
